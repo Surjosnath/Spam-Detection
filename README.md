@@ -327,11 +327,17 @@ phishing_detection.ipynb
 # 📌 Advantages of the System
 
 ✅ Detects multilingual phishing attacks
+
 ✅ Handles image-based phishing threats
+
 ✅ Improves phishing detection accuracy
+
 ✅ Reduces false positives and false negatives
+
 ✅ Supports evolving phishing techniques
+
 ✅ Scalable and adaptable architecture
+
 ✅ Integrates NLP and Computer Vision
 
 ---
